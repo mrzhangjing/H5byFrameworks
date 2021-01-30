@@ -1,0 +1,41 @@
+{
+  "ndkFolder": "/Users/beingfool/project/android-ndk-r17c",
+  "messages": [
+    {
+      "level": "INFO",
+      "message": "android.ndkVersion from module build.gradle is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "ndk.dir in local.properties is /Users/beingfool/project/android-ndk-r17c"
+    },
+    {
+      "level": "INFO",
+      "message": "ANDROID_NDK_HOME environment variable is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "sdkFolder is /Users/beingfool/Library/Android/sdk"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/beingfool/project/android-ndk-r17c by ndk.dir"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/beingfool/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/beingfool/Library/Android/sdk/ndk/17.2.4988734 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Rejected /Users/beingfool/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder because that location has no source.properties"
+    },
+    {
+      "level": "INFO",
+      "message": "Found requested ndk.dir (/Users/beingfool/project/android-ndk-r17c) which has version 17.2.4988734"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Android NDK: WARNING: Unsupported source file extensions in /Users/beingfool/project/h5by/build/jsb-default/frameworks/cocos2d-x/cocos/Android.mk for module cocos2dx_static    
+Android NDK:   renderer/memop/RecyclePool.hpp    

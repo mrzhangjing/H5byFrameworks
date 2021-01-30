@@ -1,0 +1,64 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio",
+      "sdkFolder": "/Users/beingfool/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/build/intermediates",
+      "gradleModulePathName": ":game",
+      "moduleRootFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game",
+      "makeFile": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/.cxx",
+      "cxxFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx",
+      "ndkFolder": "/Users/beingfool/project/android-ndk-r17c",
+      "ndkVersion": "17.2.4988734",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "NDK_TOOLCHAIN_VERSION\u003dclang",
+      "NDK_MODULE_PATH\u003d/Users/beingfool/project/h5by/build/jsb-default/frameworks/cocos2d-x:/Users/beingfool/project/h5by/build/jsb-default/frameworks/cocos2d-x/cocos:/Users/beingfool/project/h5by/build/jsb-default/frameworks/cocos2d-x/external",
+      "-j8",
+      "NDK_DEBUG\u003d0"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "releaseFeature",
+    "soFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/build/intermediates/ndkBuild/releaseFeature/lib",
+    "objFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/build/intermediates/ndkBuild/releaseFeature/obj/local",
+    "jsonFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/ndkBuild/releaseFeature",
+    "gradleBuildOutputFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/cxx/releaseFeature",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": [
+      "cocos2djs"
+    ]
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/ndkBuild/releaseFeature/armeabi-v7a",
+  "jsonFile": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/ndkBuild/releaseFeature/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/cxx/releaseFeature/armeabi-v7a",
+  "objFolder": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/build/intermediates/ndkBuild/releaseFeature/obj/local/armeabi-v7a",
+  "buildCommandFile": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/ndkBuild/releaseFeature/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/ndkBuild/releaseFeature/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/ndkBuild/releaseFeature/armeabi-v7a/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/ndkBuild/releaseFeature/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/beingfool/project/h5by/build/jsb-default/frameworks/runtime-src/proj.android-studio/game/.cxx/ndkBuild/releaseFeature/armeabi-v7a/compile_commands.json"
+}
